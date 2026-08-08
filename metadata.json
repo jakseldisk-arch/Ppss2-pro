@@ -1,0 +1,6 @@
+{
+  "name": "PPSS2 Pro",
+  "description": "Emulator PS2 Android ringan dan stabil dengan dukungan arsitektur 32-bit dan RAM 2 GB",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
